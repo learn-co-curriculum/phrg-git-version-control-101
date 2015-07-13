@@ -1,13 +1,3 @@
----
-tags: readme
-language: ruby
-resources: 2
-track: web development
-topic: git
-unit: what is git?
-lesson: version control 101
----
-
 # Version Control 101
 
 ## Introduction: What Is Version Control?
