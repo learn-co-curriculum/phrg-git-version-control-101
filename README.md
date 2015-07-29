@@ -26,7 +26,7 @@ There is a third system, the distributed version control system. In a distribute
 
 ## Meet Git
 
-Git is the distributed version control system we use here at The Flatiron School. Git began in 2005 and has quickly grown to be one of the most widely used version control systems in the industry. Because so many companies use Git, it's is important that you get used to working with it. We also use GitHub, a popular remote repository hosting service built to integrate seamlessly with Git.
+Git is the distributed version control system we use here at The Flatiron School. Git began in 2005 and has quickly grown to be one of the most widely used version control systems in the industry. Because so many companies use Git, it's important that you get used to working with it. We also use GitHub, a popular remote repository hosting service built to integrate seamlessly with Git.
 
 Check out some of the resources below to learn more about Git.
 
