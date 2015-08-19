@@ -20,7 +20,7 @@ There are a lot of advantages to version control. It's great way to keep a backu
 
 A local version control system stores all of the information on your computer, locally. This system works great while you work on a project by yourself. It becomes cumbersome when you attempt to collaborate, however.
 
-Some organizations use a centralized repository on a company server. Users pull only the files they need to work on from the server. The advantage is that multiple people can collaborate and work on the same project at once. The disadvantage to this process is that a user must be connected to the network in order to work on the project.
+Some organizations use a centralized repository on a company server. Think of a repository as a big folder that stores all of the files of a particular project. It is simply the location where a project's data is stored. Users pull only the files they need to work on from the server. The advantage is that multiple people can collaborate and work on the same project at once. The disadvantage to this process is that a user must be connected to the network in order to work on the project.
 
 There is a third system, the distributed version control system. In a distributed system, all users have a complete copy of the entire repository. This means that you can work on the project independent of any kind of network connection. When you get  back to a location with a connection, you can push your changes to the server and merge with the server's repository.
 
