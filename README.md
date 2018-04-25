@@ -35,4 +35,4 @@ Check out some of the resources below to learn more about Git.
 * [Getting Started - About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
 * [Git Basics - What is Git?](http://git-scm.com/video/what-is-git)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-version-control-101' title='Intro to Version Control'>Intro to Version Control</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Version Control 101</p>
