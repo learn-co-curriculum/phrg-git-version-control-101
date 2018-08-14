@@ -30,6 +30,10 @@ Git is the distributed version control system we use here at The Flatiron School
 
 Check out some of the resources below to learn more about Git.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-git-version-control-101/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-git-version-control-101/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-reqeust, and send them a link via Connect.
+
 ## Resources
 
 * [Getting Started - About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)
